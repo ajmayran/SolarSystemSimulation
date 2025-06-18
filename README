@@ -1,7 +1,1 @@
-echo "# SolarSystemSimulation" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ajmayran/SolarSystemSimulation.git
-git push -u origin main
+https://modeling-simulation-project.netlify.app/?fbclid=IwY2xjawKLGWxleHRuA2FlbQIxMABicmlkETFHczNrOWhXNFlHa2tmYUczAR5EBCJCvjSTZ-ogyqtwzp5geViKTCDpRRgf7wp-LpkNtZW3seCU0LtYXun4Aw_aem_FZWFebGXf3f8jRXuCOdkgw
